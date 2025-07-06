@@ -196,7 +196,7 @@ ffmpeg -i temp.avi -c:v libx264 -preset ultrafast -crf 23 output.mp4
 
 ### Деплой:
 ```
-https://huggingface.co/spaces/YOUR_USERNAME/vehicle-detection
+https://7860-01jzd9m2d29d8ck7pdcnqap2g1.cloudspaces.litng.ai/
 ```
 
 
